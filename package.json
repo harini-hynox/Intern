@@ -15,5 +15,8 @@
     "url": "https://github.com/harini-hynox/Intern/issues"
   },
   "homepage": "https://github.com/harini-hynox/Intern#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react-scroll": "^1.9.3"
+  }
 }
